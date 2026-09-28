@@ -73,3 +73,4 @@
 {"anchored_at": "2026-09-28T02:30:05+00:00", "date": "2026-09-28", "head_hash": "9f94a2f297482821f3f6f1211aec01ab59a455c133c4f81334595e99be4ba5ce", "n_entries": 12582, "seq": 12582}
 {"anchored_at": "2026-09-28T03:30:07+00:00", "date": "2026-09-28", "head_hash": "41a5d53b61ebff273215b750e715d2c219a55c172b5a224ddf79683732c87e9e", "n_entries": 12600, "seq": 12600}
 {"anchored_at": "2026-09-28T07:30:05+00:00", "date": "2026-09-28", "head_hash": "a39bf12e183ebbe2fce40441a4fc9b962d0e9576c6a245549f2ef2475212e3ee", "n_entries": 12601, "seq": 12601}
+{"anchored_at": "2026-09-28T08:30:05+00:00", "date": "2026-09-28", "head_hash": "88db73fea4d1a5f9fed96aff69478c9240acca7ea2bf9db91b2533ef7542610f", "n_entries": 12663, "seq": 12663}
