@@ -155,3 +155,4 @@
 {"anchored_at": "2026-10-07T03:30:08+00:00", "date": "2026-10-07", "head_hash": "4809c60a4ca47edd0da8434970b156067fdc0929cdc51832f9f8963ae5b4d0fd", "n_entries": 21067, "seq": 21067}
 {"anchored_at": "2026-10-07T06:30:07+00:00", "date": "2026-10-07", "head_hash": "896eca2fdc5124770c8e1e276296251a274e8e5f6d722ee5f08f8d0d363356f1", "n_entries": 21068, "seq": 21068}
 {"anchored_at": "2026-10-07T07:30:06+00:00", "date": "2026-10-07", "head_hash": "b5b9343b74cf9a3a61462bab067582f2a5977a96d6a4dbbd09faa5188ae5db17", "n_entries": 21069, "seq": 21069}
+{"anchored_at": "2026-10-07T08:30:06+00:00", "date": "2026-10-07", "head_hash": "627f849121cc42576bcac06bea273550850935158fab1b0c1e4fff7d95a15583", "n_entries": 21071, "seq": 21071}
