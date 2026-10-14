@@ -210,3 +210,4 @@
 {"anchored_at": "2026-10-14T00:30:07+00:00", "date": "2026-10-14", "head_hash": "c490f81699130bfbc7021c8071526069a1d641aaf65fa7444de7f48d6e9ad662", "n_entries": 21189, "seq": 21189}
 {"anchored_at": "2026-10-14T03:30:07+00:00", "date": "2026-10-14", "head_hash": "5d4b9fa3477a21bdc8cb02f24b12bf76ca31ae21308739e61b5ae56e5dc6c071", "n_entries": 21190, "seq": 21190}
 {"anchored_at": "2026-10-14T07:30:07+00:00", "date": "2026-10-14", "head_hash": "9f7b2e6b1af144d42a11caa6d55dc89a5c57a7001e0012968017252c4fc13014", "n_entries": 21191, "seq": 21191}
+{"anchored_at": "2026-10-14T08:30:06+00:00", "date": "2026-10-14", "head_hash": "c78cc307935d04528bddbaa315964bbc02a1366894d8c9db65bc801fac2e46fa", "n_entries": 21192, "seq": 21192}
