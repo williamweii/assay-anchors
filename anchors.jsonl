@@ -212,3 +212,4 @@
 {"anchored_at": "2026-10-14T07:30:07+00:00", "date": "2026-10-14", "head_hash": "9f7b2e6b1af144d42a11caa6d55dc89a5c57a7001e0012968017252c4fc13014", "n_entries": 21191, "seq": 21191}
 {"anchored_at": "2026-10-14T08:30:06+00:00", "date": "2026-10-14", "head_hash": "c78cc307935d04528bddbaa315964bbc02a1366894d8c9db65bc801fac2e46fa", "n_entries": 21192, "seq": 21192}
 {"anchored_at": "2026-10-14T12:30:07+00:00", "date": "2026-10-14", "head_hash": "d3128037e26ceec4b6428610d89c6b4f480f9ca488714140ed31237605a178c0", "n_entries": 21193, "seq": 21193}
+{"anchored_at": "2026-10-14T13:30:07+00:00", "date": "2026-10-14", "head_hash": "10c7eeaa7c487cf6e516b8630d3b0bba1552624d63f438d2f9a7429b24fc22dd", "n_entries": 21194, "seq": 21194}
