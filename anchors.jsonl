@@ -499,3 +499,4 @@
 {"anchored_at": "2026-11-20T22:30:07+00:00", "date": "2026-11-20", "head_hash": "12aa7b4c1f885eaba382f51f601a1a20d786c7024c19202e415135aae7d08868", "n_entries": 25522, "seq": 25522}
 {"anchored_at": "2026-11-21T00:30:07+00:00", "date": "2026-11-21", "head_hash": "2c77c7bdf4f07dc227a8a27b35b5f691e7d7006ec8e2643eeeed07f6e924307d", "n_entries": 25523, "seq": 25523}
 {"anchored_at": "2026-11-21T13:30:06+00:00", "date": "2026-11-21", "head_hash": "be724ecd6e4698d28fcf1f572f8f83416437c0cd5979c5f88d7cea2215454eff", "n_entries": 25524, "seq": 25524}
+{"anchored_at": "2026-11-22T00:30:05+00:00", "date": "2026-11-22", "head_hash": "c45c7f3dd4620b98068757e214c0f3553b3165deaec07df00913c7f4f52afb37", "n_entries": 25525, "seq": 25525}
